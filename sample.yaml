@@ -3,3 +3,4 @@
 Name: sample
 Kind: Pod
 Version: v1
+Spec: test
